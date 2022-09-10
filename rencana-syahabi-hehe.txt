@@ -8,3 +8,4 @@ rencana syahabi di masa depan
 - membuat portfolio
 - mempelajari backend
 - mempelajari animasi 3d
+- mempelajari c#
