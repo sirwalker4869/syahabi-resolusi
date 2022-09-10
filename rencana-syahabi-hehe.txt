@@ -6,3 +6,5 @@ rencana syahabi di masa depan
 - mempelajari javascript 
 - mempelajari php
 - membuat portfolio
+- mempelajari backend
+- mempelajari animasi 3d
