@@ -1,0 +1,6 @@
+rencana syahabi di masa depan
+
+- membuat animasi pada html yang telah dibuat
+- memperbagus tampilan
+- mempelajari javascript 
+- mempelajari php
