@@ -5,3 +5,4 @@ rencana syahabi di masa depan
 * sekaligus memperdalam skill
 - mempelajari javascript 
 - mempelajari php
+- membuat portfolio
