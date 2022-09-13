@@ -2,10 +2,10 @@ rencana syahabi di masa depan
 
 - membuat animasi pada html yang telah dibuat
 - memperbagus tampilan
-* sekaligus memperdalam skill
+- sekaligus memperdalam skill
 - mempelajari javascript 
 - mempelajari php
 - membuat portfolio
-- mempelajari backend
-- mempelajari animasi 3d
-- mempelajari c#
+- mempelajari framework
+- mempelajari c++
+
